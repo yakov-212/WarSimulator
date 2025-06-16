@@ -1,0 +1,28 @@
+{
+  "bevrage": {
+    "coffe": {
+      "name": "coffe",
+      "catagory": "bevrage",
+      "price": 2.5
+    },
+    "latte": {
+      "name": "latte",
+      "catagory": "bevrage",
+      "price": 4.5
+    }
+  },
+  "fast-food": {
+    "burger": {
+      "name": "burger",
+      "catagory": "fast-food",
+      "price": 5.5
+    }
+  },
+  "take-out": {
+    "pizza": {
+      "name": "pizza",
+      "catagory": "take-out",
+      "price": 2.5
+    }
+  }
+}

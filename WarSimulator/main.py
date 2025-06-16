@@ -49,6 +49,6 @@ while (p1.players_deck and p2.players_deck):
 print(f"{winner.name} Won!!! \nIt took {round} rounds \nThere were {war_amount} wars")
 print(f"{p1.name} Won {p1.war_wins} Wars \n{p2.name} Won {p2.war_wins} Wars")
 if winner.war_wins < loser.war_wins:
-    print("Achivment Unlocked! \nPacifist")
+    print("Achivment Unlocked! \nWhat Luck")
 elif winner.war_wins == loser.war_wins:
     print("Achivment Unlocked! \nBy The Skin Of Your Teeth")
